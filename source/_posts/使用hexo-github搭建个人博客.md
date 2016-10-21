@@ -28,7 +28,7 @@ sudo apt-get install git
 安装node.js
 -----
 
-我直接在[node.js][8]的[官网][9]下载二进制包来安装的，下载过后，解压，设置软连接。
+我直接在[node.js][8]的[官网][9]下载二进制包来安装的，下载过后，解压，设置软链接。
 
 ```bash
 ln -s /your/nodejs/dir/bin/node /usr/local/bin/node
