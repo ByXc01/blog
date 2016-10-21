@@ -81,7 +81,7 @@ vimplus将自动安装一些软件，比如说。
 配置YouCompleteMe
 -----
 
-到这一步，安装已经完成，你会发现`~`目录有两个文件，一个是vim的配置文件`.vimrc`，一个是YouCompleteMe的配置文件`[.ycm_extra_conf.py][25]`，一般来说建立一个main.cpp来写C、C++程序来说是没有问题的，都会有语法不全，当你需要写一些项目并涉及到第三方库时，就需要更改`[.ycm_extra_conf.py][26]`了，具体步骤如下。
+到这一步，安装已经完成，你会发现`~`目录有两个文件，一个是vim的配置文件`.vimrc`，一个是YouCompleteMe的配置文件`[.ycm_extra_conf.py][25]`，一般来说建立一个main.cpp来写C、C++程序来说是没有问题的，都会有语法补全，当你需要写一些项目并涉及到第三方库时，就需要更改`[.ycm_extra_conf.py][26]`了，具体步骤如下。
 
  1. 将.ycm_extra_conf.py拷贝的项目的根目录。
  2. 更改.ycm_extra_conf.py里面的`flags`变量，添加三方库路径和工程子目录路径。
