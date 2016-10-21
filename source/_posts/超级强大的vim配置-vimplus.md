@@ -206,7 +206,7 @@ vim-airline提供漂亮的状态栏支持。
   [35]: https://raw.githubusercontent.com/wiki/ryanoasis/vim-devicons/screenshots/v0.8.x/nerdtree-1.png
   [36]: https://raw.githubusercontent.com/wiki/ryanoasis/vim-devicons/screenshots/v0.8.x/nerdtree-2.png
   [37]: https://raw.githubusercontent.com/wiki/ryanoasis/vim-devicons/screenshots/v0.8.x/nerdtree-3.png
-  [38]: https://camo.githubusercontent.com/70916a51f45b5729332803c5de303f6f1849fc50/68747470733a2f2f7261772e6769746875622e636f6d2f676f726f64696e736b69792f76696d2d636f6c6f7265737175652f6d61737465722f73637265656e2e706e67
+  [38]: https://raw.githubusercontent.com/skammer/vim-css-color/master/Screen%20shot%202010-07-04%20at%200.19.46.png
   [39]: https://raw.githubusercontent.com/will133/vim-dirdiff/master/screenshot.png
   [40]: https://raw.githubusercontent.com/mhinz/vim-startify/master/pictures/startify-menu.png
   [41]: https://raw.githubusercontent.com/chxuan/vimplus/master/screenshots/change-colorscheme.gif
