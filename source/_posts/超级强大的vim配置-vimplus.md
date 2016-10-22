@@ -169,7 +169,7 @@ vim-airline提供漂亮的状态栏支持。
 ![此处输入图片的描述][41]
 
 
-  [1]: https://raw.githubusercontent.com/chxuan/vimplus/master/screenshots/main.png
+  [1]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/main.png
   [2]: https://github.com/chxuan/vimplus
   [3]: http://chengxuan.me/2016/10/20/%E8%B6%85%E7%BA%A7%E5%BC%BA%E5%A4%A7%E7%9A%84vim%E9%85%8D%E7%BD%AE-vimplus/
   [4]: http://pan.baidu.com/s/1kVdgsRl
@@ -196,18 +196,18 @@ vim-airline提供漂亮的状态栏支持。
   [25]: https://github.com/chxuan/vimplus/blob/master/.ycm_extra_conf.py
   [26]: https://github.com/chxuan/vimplus/blob/master/.ycm_extra_conf.py
   [27]: https://github.com/ryanoasis/vim-devicons
-  [28]: https://camo.githubusercontent.com/1f3f922431d5363224b20e99467ff28b04e810e2/687474703a2f2f692e696d6775722e636f6d2f304f50346f6f642e676966
-  [29]: https://camo.githubusercontent.com/e15ac916ab9a14dd07135cb2d985cc7333200a38/687474703a2f2f692e696d6775722e636f6d2f614f63774877742e706e67
-  [30]: https://camo.githubusercontent.com/ba79534309330accd776a8d2a0712f7c4037d7f9/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3330363530322f313037323632332f34346332393261302d313439352d313165332d396365362d6463616461336631633533362e676966
-  [31]: https://camo.githubusercontent.com/1f02cead8bdcf894f26b0006c44068a33a7dc8e5/687474703a2f2f6a6f65646963617374726f2e636f6d2f7374617469632f70696374757265732f737572726f756e645f656e2e676966
-  [32]: https://camo.githubusercontent.com/2f5cb5bc9a964b0d9e623b5b3aff0314294ac841/687474703a2f2f6a6f65646963617374726f2e636f6d2f7374617469632f70696374757265732f636f6d6d656e746172795f656e2e676966
-  [33]: https://camo.githubusercontent.com/372b34413e710cdbc95c5a5c1f901baf9e77791d/687474703a2f2f6a6f65646963617374726f2e636f6d2f7374617469632f70696374757265732f736d617274696e7075745f656e2e676966
-  [34]: https://raw.githubusercontent.com/haya14busa/i/master/incsearch.vim/incremental_regex_building.gif
-  [35]: https://raw.githubusercontent.com/wiki/ryanoasis/vim-devicons/screenshots/v0.8.x/nerdtree-1.png
-  [36]: https://raw.githubusercontent.com/wiki/ryanoasis/vim-devicons/screenshots/v0.8.x/nerdtree-2.png
-  [37]: https://raw.githubusercontent.com/wiki/ryanoasis/vim-devicons/screenshots/v0.8.x/nerdtree-3.png
-  [38]: https://raw.githubusercontent.com/skammer/vim-css-color/master/Screen%20shot%202010-07-04%20at%200.19.46.png
-  [39]: https://raw.githubusercontent.com/will133/vim-dirdiff/master/screenshot.png
-  [40]: https://raw.githubusercontent.com/mhinz/vim-startify/master/pictures/startify-menu.png
-  [41]: https://raw.githubusercontent.com/chxuan/vimplus/master/screenshots/change-colorscheme.gif
+  [28]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/ycm.gif
+  [29]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/ctrlp.png
+  [30]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/airline.gif
+  [31]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/surround.gif
+  [32]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/commentary.gif
+  [33]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/auto-pairs.gif
+  [34]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/incsearch.gif
+  [35]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/devicons.png
+  [36]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/devicons2.png
+  [37]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/devicons3.png
+  [38]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/colorsque.png
+  [39]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/dirdiff.png
+  [40]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/startify.png
+  [41]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/change-colorscheme.gif
 

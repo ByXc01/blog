@@ -146,7 +146,7 @@ hexo deploy(可以缩写成d)
  2. [NexT主题官方文档][17]
 
 
-  [1]: https://raw.githubusercontent.com/chxuan/images/master/blog/201610/hexo.png
+  [1]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/hexo.png
   [2]: https://cn.wordpress.org/
   [3]: http://www.lampnick.com/
   [4]: https://hexo.io/zh-cn/
@@ -155,11 +155,11 @@ hexo deploy(可以缩写成d)
   [7]: http://chengxuan.me/2016/10/19/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
   [8]: http://nodejs.cn/
   [9]: http://nodejs.cn/
-  [10]: https://raw.githubusercontent.com/chxuan/images/master/blog/201610/hexo2.png
+  [10]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/hexo2.png
   [11]: https://www.zybuluo.com/mdedito
   [12]: http://theme-next.iissnan.com/
   [13]: http://theme-next.iissnan.com/theme-settings.html
-  [14]: https://raw.githubusercontent.com/chxuan/images/master/blog/201610/hexo3.png
+  [14]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/hexo3.png
   [15]: http://theme-next.iissnan.com/third-party-services.html
   [16]: https://hexo.io/zh-cn/docs/
   [17]: http://theme-next.iissnan.com/getting-started.html
