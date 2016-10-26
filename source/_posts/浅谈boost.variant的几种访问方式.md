@@ -13,7 +13,7 @@ tags:
 前言
 -----
 
-variant类型在C++14并没有加入，在[cppreference][2]网站上可以看到该类型将会在C++17加入，若想在不支持C++17的编译器上使用variant类型，我们可以通过boost的variant类型，variant类型可以表示任意一种类型和any类型有些相似，但还是有些区别，比如说variant支持的类型需提前定义，而any类型不需要，获取any类型的值需要给出原始类型，然而variant类型支持多种方式访问，其中一种就是通过访问者模式来访问，是不需要给出原始类型的，下面将浅谈variant的几种访问方式。
+variant类型在C++14并没有加入，在[cppreference][2]网站上可以看到该类型将会在C++17加入，若想在不支持C++17的编译器上使用variant类型，我们可以通过boost的variant类型，variant类型可以表示任意一种类型和any类型有些相似，但还是有些区别，比如说variant支持的类型需提前定义，而any类型不需要，获取any类型的值需要给出原始类型，然而variant类型支持多种方式访问，其中一种就是通过访问者模式来访问，是不需要给出原始类型的，下面将浅谈variant的几种访问方式(个人博客也发表了[《浅谈boost.variant的几种访问方式》][3])。
 
 <!--more-->
 
@@ -110,9 +110,10 @@ int main()
 参考资料
 -----
 
-[boost官网][3]
+[boost官网][4]
 
 
   [1]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/variant.jpg
   [2]: http://en.cppreference.com/w/
-  [3]: http://www.boost.org/doc/libs/1_62_0/doc/html/variant/tutorial.html
+  [3]: http://chengxuan.me/2016/10/26/%E6%B5%85%E8%B0%88boost.variant%E7%9A%84%E5%87%A0%E7%A7%8D%E8%AE%BF%E9%97%AE%E6%96%B9%E5%BC%8F/
+  [4]: http://www.boost.org/doc/libs/1_62_0/doc/html/variant/tutorial.html
