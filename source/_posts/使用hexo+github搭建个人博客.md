@@ -152,7 +152,7 @@ hexo deploy(可以缩写成d)
   [4]: https://hexo.io/zh-cn/
   [5]: http://jekyll.com.cn/
   [6]: https://coding.net/
-  [7]: http://chengxuan.me/2016/10/19/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
+  [7]: http://chengxuan.me/2016/10/19/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
   [8]: http://nodejs.cn/
   [9]: http://nodejs.cn/
   [10]: https://raw.githubusercontent.com/chxuan/images/master/blog/2016/10/hexo2.png
