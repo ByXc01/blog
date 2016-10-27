@@ -36,11 +36,11 @@ void var_print(boost::variant<int, std::string>& v)
 {  
     if (v.type() == typeid(int))  
     {  
-        std::cout << get<int>(v) << std::endl;  
+        std::cout << boost::get<int>(v) << std::endl;  
     }
     else if (v.type() == typeid(std::string))  
     {  
-        std::cout << get<std::string>(v) << std::endl;  
+        std::cout << boost::get<std::string>(v) << std::endl;  
     }  
     // Else do nothing
 }  
