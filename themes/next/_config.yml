@@ -185,7 +185,9 @@ sidebar:
 #links_layout: inline
 links:
   #Title: http://example.com/
+  isocpp: https://isocpp.org
   cppreference: http://en.cppreference.com
+  cplusplus: http://www.cplusplus.com
   purecpp: http://purecpp.org
 
 
