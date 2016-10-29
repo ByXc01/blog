@@ -22,7 +22,6 @@ tags:
 -----
 
 ```cpp
-
 #include <iostream>
 #include <string>
 #include <utility>
@@ -94,7 +93,6 @@ int main()
 
     return 0;
 }
-
 ```
 
 该代码也上传到了我的[github][4]。
